@@ -5,7 +5,7 @@ import styles from "./styles/Layout.module.css";
 export default function Seccion1(props) {
     return(
         <>
-            <div className={styles.scrolldown} ref={props.reference[0].id} data-aos="fade-up" style={{ backgroundColor: "red" }}>
+            <div className={styles.scrolldown} ref={props.reference[0].id} style={{ backgroundColor: "red" }}>
                 <ul>
                     <li><Link to="/seccion1"  className={styles.link}>Seccion 1</Link></li>
                     <li><Link to="/seccion2"  className={styles.link}>Seccion 2</Link></li>
