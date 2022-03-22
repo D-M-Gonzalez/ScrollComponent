@@ -1,0 +1,4 @@
+https://mui.com/
+https://react-awesome-reveal.morello.dev/
+https://sweetalert2.github.io/recipe-gallery/sweetalert2-react.html
+https://styled-components.com/
